@@ -2,3 +2,8 @@ first git project
 username: Prez1-progstud
 butterflies for future
 commence
+
+Git algorithm:
+git add . -> přidá všechno do staging zony
+git commit -m "popis zmen" -> vytvoři save na lokalnim repozitari
+git push -> posle vsechny lokalni zmeny na github
